@@ -2,3 +2,7 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+I feel good. Bla bla bla.
+[Link](https://github.com/jukop/IODS-project)
+
+This *text* is italic. ~~This text is overlined~~.
